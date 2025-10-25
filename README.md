@@ -245,15 +245,21 @@ The system comes pre-populated with sample users for each role:
   <p><i>Screenshots will be added soon</i></p>
 </div>
 
-## Contributor
+## Contributors
 
+-	Customer Support Module - Samarathunga S.A.J.D.M (IT24102137)
+-	Staff Support Module - Kidelpitiyage L.T (IT24102044)
+-	Repair Management Module - Hettiarachchi D.S (IT24102028)
+-	Inventory Management Module - Aazib A.H.M.A (IT24102169)
+-	Warehouse & Procurement Module - Shaheen A.N (IT24101993)
+-	Administration & User Management Module - Jayasinghe S.S. (IT24102186)
+
+---
 <div align="center">
   <a href="https://github.com/janiyax35">
-    <img src="https://avatars.githubusercontent.com/u/janiyax35" width="100px" style="border-radius:50%;" alt="Janith Deshan"/>
+    <img src="https://avatars.githubusercontent.com/u/138566861?v=4" width="100px" style="border-radius:50%;" alt="Janith Deshan"/>
     <br />
-    <b>Janith Deshan</b>
-    <br />
-    BSc (Hons) Information Technology Specialized in Cyber Security
+    <b>Janith Deshan(IT24102137)</b>
     <br />
     <sub>Sri Lanka Institute of Information Technology (SLIIT)</sub>
     <br />
